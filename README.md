@@ -1,4 +1,4 @@
-# Water Tank Level
+# Water Tank Level and Relay Control
 
 ESP8266 ultrasonic water tank level module.
 
